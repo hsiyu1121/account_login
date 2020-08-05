@@ -2,8 +2,7 @@
 
 使用Node.js, Express, Express-handlebars 套件製作而成
 
-# 畫面簡圖
-[](https://github.com/hsiyu1121/account_login/blob/master/Account%20Login.png)
+![Alt text](https://github.com/hsiyu1121/account_login/blob/master/Account%20Login.png)
 
 ## 功能清單
 * 使用者可輸入帳號密碼並提交
@@ -34,5 +33,7 @@
 * 開啟瀏覽器輸入以下網址
 
   ``http://localhost:3000``
+
+# 測試帳號密碼清單
 
 
