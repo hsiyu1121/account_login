@@ -2,6 +2,9 @@
 
 使用Node.js, Express, Express-handlebars 套件製作而成
 
+# 畫面簡圖
+[](https://github.com/hsiyu1121/account_login/blob/master/Account%20Login.png)
+
 ## 功能清單
 * 使用者可輸入帳號密碼並提交
 * 帳密錯誤，使用者可以得到提示訊息，並且保留原本輸入帳號密碼
