@@ -14,6 +14,7 @@
 * Node.js: v10.15.0
 * express: v4.17.1
 * express-handlebars: v5.1.0
+* body-parser: v1.19.0
 
 ## 啟動方式
 * 將專案下載至本機內
@@ -38,7 +39,39 @@
 ## 測試帳號密碼清單
 <table>
   <tr>
-    <td>Email</td><td>Password</td>
+    <td></td>
+    <td>Name</td>
+    <td>Email</td>
+    <td>Password</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Tony</td>
+    <td>tony@stark.com</td>
+    <td>iamironman</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Steve</td>
+    <td>captain@hotmail.com</td>
+    <td>icandothisallday</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Peter</td>
+    <td>peter@parker.com</td>
+    <td>enajyram</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Natasha</td>
+    <td>natasha@gamil.com</td>
+    <td>*parol#@$!</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Nick</td>
+    <td>nick@shield.com</td>
+    <td>password</td>
   </tr>
 </table>
-
